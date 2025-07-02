@@ -1,0 +1,17 @@
+
+{
+  "name": "elevenlabs-transcriber-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "googleapis": "^133.0.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
